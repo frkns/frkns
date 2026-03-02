@@ -1,2 +1,2 @@
-# $\geqslant w \leqslant$
+# $\geqslant$_$\leqslant$
 * interested in learning technical stuff
